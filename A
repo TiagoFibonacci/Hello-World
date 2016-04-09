@@ -1,0 +1,6 @@
+public class Aluno{
+  private String nome;
+  private double grauA;
+  private double grauB;
+  }
+  
